@@ -1,0 +1,2 @@
+ICT1,OOP,4
+ICT2,DSA,3
